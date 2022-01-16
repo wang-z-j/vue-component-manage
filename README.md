@@ -1,0 +1,2 @@
+- 安装 storybook 相关依赖
+- 修改.storybook/main.js 的 stories 入口 '../packages/\**/*stories.js'

@@ -1,5 +1,5 @@
-import Form from './src/Form.vue'
-Form.install() = Vue => {
-  Vue.component(Form.name , Form)
+import WzjForm from './src/form.vue'
+WzjForm.install = Vue => {
+  Vue.component(WzjForm.name, WzjForm)
 }
-export default Form
+export default WzjForm

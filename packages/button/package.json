@@ -1,5 +1,5 @@
 {
-  "name": "wzj-form-item",
+  "name": "wzj-formitem",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "wangzhj",
-  "license": "MIT",
-  "dependencies": {
-    "async-validator": "^4.0.7"
-  }
+  "license": "MIT"
 }

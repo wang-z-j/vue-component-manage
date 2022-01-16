@@ -1,5 +1,5 @@
-import Input from './src/Input.vue'
-Input.install() = Vue => {
-  Vue.component(Input.name , Input)
+import WzjInput from './src/input.vue'
+WzjInput.install = Vue => {
+  Vue.component(WzjInput.name , WzjInput)
 }
-export default Input
+export default WzjInput

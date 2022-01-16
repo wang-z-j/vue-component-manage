@@ -1,5 +1,5 @@
-import FormItem from './src/FormItem.vue'
-FormItem.install() = Vue => {
-  Vue.component(FormItem.name , FormItem)
+import WzjFormItem from './src/formItem.vue'
+WzjFormItem.install = Vue => {
+  Vue.component(WzjFormItem.name, WzjFormItem)
 }
-export default FormItem
+export default WzjFormItem
