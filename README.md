@@ -190,3 +190,28 @@ module.exports = fs
 ```js
 "build": "rollup -c"
 ```
+
+### 设置环境
+
+```bash
+yarn add cross-env -D -W
+```
+
+### 清理
+
+```bash
+yarn add rimraf -D -W
+```
+
+```bash
+yarn workspaces run del
+```
+
+### 基于模版生成组件基本机构
+
+```bash
+yarn add plop -D -W
+运行报错的话 尝试安装2.7.4版本
+```
+
+- plopfile.js
