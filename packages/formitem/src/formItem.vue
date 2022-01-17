@@ -4,7 +4,7 @@
     <div>
       <slot></slot>
     </div>
-    <p v-if="errorMsg">errorMsg</p>
+    <p v-if="errorMsg">{{ errorMsg }}</p>
   </div>
 </template>
 <script>
