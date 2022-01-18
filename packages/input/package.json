@@ -6,7 +6,8 @@
   "module": "dist/es/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "del": "rimraf dist"
+    "del": "rimraf dist",
+    "build": "rollup -c"
   },
   "keywords": [],
   "author": "wangzhj",
